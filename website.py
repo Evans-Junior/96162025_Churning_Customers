@@ -87,7 +87,7 @@ def main():
 
         #  Using a sigmoid activation function in the final layer, returning probabilities instead of direct class predictions.
         #  So from my research I learnt thet a yes values in sigmoid would have to start from a 0.5. But I made mine 0.4 this was due to the fact that our model was not strong enough.
-        threshold = 0.4
+        threshold = 0.41
         prediction_result = "No" if predicted_value <= threshold else "Yes"
         st.success(f"Would this Customer Churn: {prediction_result}. Customers' confidence factor is {confidence_factor[0][0]:.2f}")
 
