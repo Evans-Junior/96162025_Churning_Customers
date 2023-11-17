@@ -1,5 +1,5 @@
 import streamlit as st
-import pickle,pandas as pd
+import pickle
 from keras.models import load_model
 
 

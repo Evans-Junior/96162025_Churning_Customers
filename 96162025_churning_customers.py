@@ -118,7 +118,7 @@ else:
 relevantdata=pd.concat([numeric_scaled_df,alph_df],axis=1)
 relevantdata
 
-"""**LabelEcode my values all aphabet values**"""
+"""**LabelEcode all aphabet values**"""
 
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -246,7 +246,6 @@ plt.show()
 
 X = relevantdata[selected_features]  # Features
 y = relevantdata['Churn']  # Target variable
-X
 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import roc_auc_score
