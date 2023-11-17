@@ -31,4 +31,5 @@ This project is a Streamlit web application designed to predict customer churn b
 - The app is designed to help businesses anticipate customer churn and take proactive measures.
 
 ### Link to video
-# https://drive.google.com/file/d/1F3eyCPPsTI_CFIUtQFB4DC9saK-R9xOC/view?usp=sharing](https://drive.google.com/file/d/1ZkvW4OaNIfA7Xk7UlFlud5Ng67kLufdU/view?usp=sharing)https://drive.google.com/file/d/1ZkvW4OaNIfA7Xk7UlFlud5Ng67kLufdU/view?usp=sharing
+# [[https://drive.google.com/file/d/1F3eyCPPsTI_CFIUtQFB4DC9saK-R9xOC/view?usp=sharing](https://drive.google.com/file/d/1ZkvW4OaNIfA7Xk7UlFlud5Ng67kLufdU/view?usp=sharing)https://drive.google.com/file/d/1ZkvW4OaNIfA7Xk7UlFlud5Ng67kLufdU/view?usp=sharing](https://drive.google.com/file/d/1ESPs6vPWzZ_41KmS6v43NyuR2xQW1H8O/view?usp=sharing)https://drive.google.com/file/d/1ESPs6vPWzZ_41KmS6v43NyuR2xQW1H8O/view?usp=sharing
+](https://drive.google.com/file/d/1ESPs6vPWzZ_41KmS6v43NyuR2xQW1H8O/view?usp=sharing)https://drive.google.com/file/d/1ESPs6vPWzZ_41KmS6v43NyuR2xQW1H8O/view?usp=sharing
